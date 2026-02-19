@@ -81,3 +81,8 @@ ReactNative/
 * João Ramalho  - Desenvolvedor  [João Ramalho](https://github.com/Joaoavr)
 
 * [Rocketseat - React Native](https://app.rocketseat.com.br)
+
+## O APP
+<div align="center">
+<img width="403" height="870" alt="image" src="https://github.com/user-attachments/assets/e70ce8d3-0338-4507-9987-33974f7dddea" />
+</div>
