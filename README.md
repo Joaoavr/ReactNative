@@ -77,7 +77,7 @@ ReactNative/
 
 * [React Hooks] - Gerenciamento de estado e ciclo de vida
 
-# ✒️ Autores
+## ✒️ Autores
 * João Ramalho  - Desenvolvedor  [João Ramalho](https://github.com/Joaoavr)
 
 * [Rocketseat - React Native](https://app.rocketseat.com.br)
